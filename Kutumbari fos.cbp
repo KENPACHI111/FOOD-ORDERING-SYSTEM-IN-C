@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Kutumbari fos" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Kutumbari fos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Kutumbari fos" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Wellcome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="awaitingfood.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="backmenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="breakfast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contributor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="currentstatus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dinner.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="entertainment.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exit option.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gotoxy(int x, int y).c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gui grapic.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="information.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="int main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="loading animation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lunch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="others order.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="payment.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="price count.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="registration.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="returnmenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tea and drinks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

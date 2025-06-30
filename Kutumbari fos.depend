@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1747683222 source:c:\users\ms it limited\desktop\kutumbari fos\backmenu.c
+
+1747859000 source:c:\users\ms it limited\desktop\kutumbari fos\contributor.c
+
+1747857853 source:c:\users\ms it limited\desktop\kutumbari fos\awaitingfood.c
+
+1747857878 source:c:\users\ms it limited\desktop\kutumbari fos\currentstatus.c
+
+1747682542 source:c:\users\ms it limited\desktop\kutumbari fos\exit option.c
+
+1747857841 source:c:\users\ms it limited\desktop\kutumbari fos\breakfast.c
+
+1747683542 source:c:\users\ms it limited\desktop\kutumbari fos\information.c
+
+1747857867 source:c:\users\ms it limited\desktop\kutumbari fos\dinner.c
+
+1747857884 source:c:\users\ms it limited\desktop\kutumbari fos\entertainment.c
+
+1747682310 source:c:\users\ms it limited\desktop\kutumbari fos\loading animation.c
+
+1747675202 source:c:\users\ms it limited\desktop\kutumbari fos\login.c
+
+1747857936 source:c:\users\ms it limited\desktop\kutumbari fos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1747857900 source:c:\users\ms it limited\desktop\kutumbari fos\lunch.c
+
+1747857894 source:c:\users\ms it limited\desktop\kutumbari fos\others order.c
+
+1747857888 source:c:\users\ms it limited\desktop\kutumbari fos\int main.c
+
+1747683481 source:c:\users\ms it limited\desktop\kutumbari fos\payment.c
+
+1747858765 source:c:\users\ms it limited\desktop\kutumbari fos\price count.c
+
+1747857917 source:c:\users\ms it limited\desktop\kutumbari fos\tea and drinks.c
+
+1747857922 source:c:\users\ms it limited\desktop\kutumbari fos\wellcome.c
+
+1747857911 source:c:\users\ms it limited\desktop\kutumbari fos\returnmenu.c
+
+1747857928 source:c:\users\ms it limited\desktop\kutumbari fos\registration.c
+	<stdio.h>
+	<stdlib.h>
+
+1747687285 source:c:\users\ms it limited\desktop\kutumbari fos\gotoxy(int x, int y).c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1747687558 source:c:\users\ms it limited\desktop\kutumbari fos\gui file.c
+	<windows.h>
+
+1747857829 source:c:\users\ms it limited\desktop\kutumbari fos\gui grapic.c
+	<windows.h>
+
+1747857853 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\awaitingfood.c
+
+1747683222 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\backmenu.c
+
+1747857841 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\breakfast.c
+
+1751300742 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\contributor.c
+
+1747857878 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\currentstatus.c
+
+1747857867 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\dinner.c
+
+1747857884 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\entertainment.c
+
+1747682542 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\exit option.c
+
+1747687285 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\gotoxy(int x, int y).c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1747857829 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\gui grapic.c
+	<windows.h>
+
+1747683542 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\information.c
+
+1747857888 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\int main.c
+
+1747682310 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\loading animation.c
+
+1747675202 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\login.c
+
+1747857900 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\lunch.c
+
+1747857936 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1747857894 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\others order.c
+
+1747683481 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\payment.c
+
+1747858765 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\price count.c
+
+1747857928 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\registration.c
+	<stdio.h>
+	<stdlib.h>
+
+1747857911 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\returnmenu.c
+
+1747857917 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\tea and drinks.c
+
+1747857922 source:c:\users\ms it limited\desktop\new folder\kutumbari fos\wellcome.c
+
